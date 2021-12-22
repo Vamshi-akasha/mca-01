@@ -1,0 +1,10 @@
+#include<studio.h>
+#include<conio.h>
+Void main()
+{ 
+  Int a = 10;
+  Int b = 20;
+   Int c = a + b;
+   Printf("value of c = %d", c);
+
+}
